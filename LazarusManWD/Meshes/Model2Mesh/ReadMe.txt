@@ -1,5 +1,5 @@
 Model 2 Mesh
-V1.1
+Latest Version: 2.0
 Lazarus*Man
 
 **Note:  This program is designed for those who are knowledgable in Unity.  If you are not, look up YouTube videos on procedural meshes.  This is a good video series to get an idea of what you are getting yourself into:
@@ -27,3 +27,7 @@ Current Limitations:
 
 Good Luck and Have Fun,
 -Andre
+
+
+
+v2.0: Added mesh type dropdown and autopopulation.  Accounted for some CSL solution structural changes.
